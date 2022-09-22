@@ -9,3 +9,9 @@ Custom [RuboCop](https://github.com/rubocop/rubocop) extension template.
 3. Run `bin/setup`
 4. Add your custom cop by running `bundle exec rake new_cop[Foo/Bar]`
 5. Edit `lib/rubocop/cop/foo/bar.rb`
+
+## License
+
+The template is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+Copyright (c) 2022 Ryo Nakamura
